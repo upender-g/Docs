@@ -1,0 +1,8 @@
+Copy the json files to C:\Users\h243774\Documents\cucumber-html-reporter-develop\test\report
+
+C:\Users\h243774\Documents\cucumber-html-reporter-develop>node index.js
+
+https://github.com/gkushang/cucumber-html-reporter#options
+
+
+https://www.npmjs.com/package/cucumber-html-reporter
